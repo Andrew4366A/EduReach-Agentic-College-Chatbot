@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+client/vite-project/node_modules/
+server/node_modules/
+
+# Builds / outputs
+dist/
+client/vite-project/dist/
+client/vite-project/build/
+build/
+.turbo/
+
+# Env / secrets
+.env
+server/.env
+client/.env
+client/vite-project/.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Archives
+server.zip
+
+# Logs
+*.log
+
